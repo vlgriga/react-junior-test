@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.navbar-buttons{
+    text-decoration: none;
+    color: #333;
+    text-transform: uppercase;
+    padding: 10px;
+}
+
+.navbar-buttons:hover{
+    background-color: #d0caca;
+}
+
+.wrapper-container {
+    width: 30%;
+    background-color: #d0caca ;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+.wrapper-container  input {
+    margin-top: 10px;
+}
